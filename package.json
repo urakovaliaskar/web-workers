@@ -1,0 +1,8 @@
+{
+  "name": "web-workers",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/urakovaliaskar/web-workers.git",
+  "author": "urakovaliaskar <urakov.aliaskar@gmail.com>",
+  "license": "MIT"
+}
